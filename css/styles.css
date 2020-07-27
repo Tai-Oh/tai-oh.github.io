@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #192f60;
   text-align: left;
   background-color: #fff;
 }
@@ -5995,7 +5995,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #fc766a !important;
+  background-color: #ffffff !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6005,7 +6005,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #5b84b1 !important;
+  background-color: #192f60 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9670,7 +9670,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #fff !important;
+  color: #193060 !important;
 }
 
 .text-primary {
@@ -9682,7 +9682,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 .text-secondary {
-  color: #5b84b1 !important;
+  color: #193060 !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
