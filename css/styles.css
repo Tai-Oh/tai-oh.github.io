@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #192f60;
+  color: #193060;
   text-align: left;
   background-color: #fff;
 }
@@ -6001,7 +6001,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #fb4838 !important;
+  background-color: #a73836 !important;
 }
 
 .bg-secondary {
@@ -9670,7 +9670,7 @@ button.bg-dark:focus {
 }
 
 .text-white {
-  color: #193060 !important;
+  color: #fff !important;
 }
 
 .text-primary {
@@ -9916,10 +9916,10 @@ h3 {
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
-  background-color: #fff;
+  background-color: #192f60;
 }
 .divider-custom.divider-light .divider-custom-icon {
-  color: #fff !important;
+  color: #192f60 !important;
 }
 
 .btn-xl {
@@ -10051,7 +10051,7 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(252, 118, 106, 0.9);
+  background-color: rgba(167, 56, 54, 0.5);
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -10133,7 +10133,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #5b84b1;
+  background-color: #192f5f;
   color: #fff;
 }
 
@@ -10169,7 +10169,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   justify-content: center;
   font-size: 2rem;
-  background-color: #fc766a;
+  background-color: #a73836;
   color: #fff;
   border-radius: 100%;
 }
