@@ -1,3 +1,3 @@
 # tai-oh.github.io
 
-> This is the site for Tai Foluso
+> This is the Portfolio website for Tai Foluso
